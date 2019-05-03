@@ -1,0 +1,10 @@
+Package: K2C
+Title: R package converting Kelvin to Celsius
+Version: 1.0
+Authors@R: person("Xavier", "Gallagher-Duval", email = "xavier.gallagher-duval@eusherbrooke.ca", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.0.2)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
